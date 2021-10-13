@@ -307,3 +307,14 @@ ul
 	display : table;
 	margin : 0 auto;
 }
+.toc_item
+{
+	text-align:center;
+	font-size:40px;
+	font-weight:bold;
+	font-family:"Times New Roman", monospace;
+	color:black;
+	text-decoration:underline;
+	text-decoration-color:black;
+	text-shadow:4px 4px 8px lightblue;
+}
